@@ -1,4 +1,4 @@
 Overall sentiment: positive
-Positive: 0.98
+Positive: 0.96
 Neutral: 0.01
-Negative: 0.01
+Negative: 0.02
