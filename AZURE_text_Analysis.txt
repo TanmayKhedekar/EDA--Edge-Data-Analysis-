@@ -22,10 +22,10 @@ export AZURE_LANGUAGE_ENDPOINT="YOUR_ENDPOINT_HERE"
 pip install azure-ai-textanalytics
 
 ## STEP 4 — CREATE SAMPLE TEXT FILE
-echo "Azure Cognitive Services are amazing and make AI easy to use." > sample_text.txt
+echo "Azure Cognitive Services are amazing and make AI easy to use." > Sample_text.txt
 
 ## STEP 5 — RUN SENTIMENT ANALYSIS
-python3 textsentiment.py sample_text.txt --out output_sentiment.txt
+python3 TextSentimentAnalysis.py sample_text.txt --out Output_Sentiment.txt
 
 ## STEP 6 — VIEW OUTPUT
-cat output_sentiment.txt
+cat Output_Sentiment.txt
